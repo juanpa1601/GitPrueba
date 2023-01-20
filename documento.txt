@@ -7,4 +7,6 @@ Coladmin tiene mucho futuro, esperemos que se afroten las cosas que se vienen.
 
 Main 1
 
+Main 2
+
 Mi nombre es juan
